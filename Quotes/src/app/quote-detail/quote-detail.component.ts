@@ -8,6 +8,10 @@ import { Quote } from '../quote';
 })
 export class QuoteDetailComponent implements OnInit {
 
+  quoteDelete(complete:boolean){
+    this.isComplete.emit(complete);
+  }
+
   @Input() quote: Quote;
   @Output() isComplete = new EventEmitter<boolean>();
 
