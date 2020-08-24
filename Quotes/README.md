@@ -1,5 +1,9 @@
 # Quotes
 
+## Built By 
+Albert Obwoge
+## Description
+Project where users can create quotes and have those quotes voted on whether they are terrible or are inspirational
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
@@ -25,3 +29,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Technologies Used
+Angular CLI
+
+## License
+MIT &copy;2020 [Albert Obwoge](https://github.com/ABERT-NOLA/)
